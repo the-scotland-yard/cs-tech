@@ -8,9 +8,9 @@
 
 **스터디 구성원**
 
-| [김지용](https://github.com/) | [오유진](https://github.com/) | [이민규](https://github.com/) | [최성호](https://github.com/wonjunJ) |
+| [김지용](https://github.com/ssafyjiyong) | [오유진](https://github.com/OHNEUL1999) | [이민규](https://github.com/leeminkyu1212) | [최성호](https://github.com/seonghoho) |
 |:---:|:---:|:---:|:---:|
-| <img alt="지용" src="https://github.com/.png" width="230" height="100%"/> | <img alt="유진" src="https://github.com/.png" width="230" height="100%"/> | <img alt="민규" src="https://github.com/.png" width="230" height="100%"/> | <img alt="성호" src="https://github.com/.png" width="230" height="100%"/> |
+| <img alt="지용" src="https://github.com/ssafyjiyong.png" width="230" height="100%"/> | <img alt="유진" src="https://github.com/OHNEUL.png" width="230" height="100%"/> | <img alt="민규" src="https://github.com/leeminkyu1212.png" width="230" height="100%"/> | <img alt="성호" src="https://github.com/seonghoho.png" width="230" height="100%"/> |
 
 <br>
 
