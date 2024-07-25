@@ -1,12 +1,12 @@
 # CS 발표 주제
 ## 240717(수)
-- 유진: 암호화 / 복호화
+- [유진: 암호화 / 복호화](../cs-study/week01/Encryption%20&%20Decryption)
 - 민규: 모놀리식 vs 마이크로 서비스
 - 성호: 브라우저에 URL 입력 시 일어나는 일
 - 지용: Overflow and Underflow
 
 ## 240724(수)
-- 유진: 개발 문서
+- [유진: 개발 문서](../cs-study/week02/dev%20descriptions)
 - 민규: SQL과 NoSQL
 - 성호: 데이터 저장소
 - 지용: 서버 스크립트 언어, PHP에 대하여
