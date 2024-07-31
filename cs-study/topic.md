@@ -12,7 +12,7 @@
 - [지용: 서버 스크립트 언어, PHP에 대하여](../cs-study/week02/PHP_Hypertext%20Preprocessor)
 
 ## 240731(수)
-- 유진: 프로토콜
+- [유진: 프로토콜](../cs-study/week03/protocol)
 - 민규: 
 - 성호: 운영체제
 - 지용:
