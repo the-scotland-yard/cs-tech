@@ -15,11 +15,11 @@
 - [유진: 프로토콜](../cs-study/week03/protocol)
 - 민규: 
 - [성호: SPA vs MPA](../cs-study/week03/spa_vs_mpa)
-- 지용:
+- [지용: Singleton Pattern](../cs-study/week03/Singleton%20Pattern/)
 
 
-## 000000()
+## 240807(수)
 - 유진: 
 - 민규: 
 - 성호: 
-- 지용:
+- 지용: 비전공자가 사랑하는 언어, Python에 대하여 
