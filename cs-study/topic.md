@@ -21,5 +21,5 @@
 ## 240807(수)
 - [유진: 개발표준](../cs-study/week04/dev%20standard)
 - 민규: 
-- 성호: 
+- [성호: Lint, Linter](../cs-study/week04/lint/lint.md)
 - 지용: 비전공자가 사랑하는 언어, Python에 대하여 
