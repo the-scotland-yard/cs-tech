@@ -13,13 +13,13 @@
 
 ## 240731(수)
 - [유진: 프로토콜](../cs-study/week03/protocol)
-- 민규: 
+- [민규: 안랩 모의면접](비공개)
 - [성호: SPA vs MPA](../cs-study/week03/spa_vs_mpa)
 - [지용: Singleton Pattern](../cs-study/week03/Singleton%20Pattern/)
 
 
 ## 240807(수)
 - [유진: 개발표준](../cs-study/week04/dev%20standard)
-- 민규: 
+- [민규: 웹서버와 WAS](../cs-study/week04/WebServer%20WAS)
 - [성호: Lint, Linter](../cs-study/week04/lint/lint.md)
 - 지용: 비전공자가 사랑하는 언어, Python에 대하여 
