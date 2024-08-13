@@ -27,5 +27,5 @@
 ## 240813(화) 5주차
 - [유진: REST API](../cs-study/week05/REST%20API)
 - 민규
-- 성호
+- [성호: PointerEvent](../cs-study/week05/PointerEvent)
 - 지용
