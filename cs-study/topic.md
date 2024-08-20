@@ -29,3 +29,9 @@
 - 민규
 - [성호: PointerEvent](../cs-study/week05/PointerEvent)
 - 지용
+
+## 240820(화) 6주차
+- [유진: Firmware](../cs-study/week06/Firmware)
+- [민규: 
+- [성호: 
+- [지용: 
