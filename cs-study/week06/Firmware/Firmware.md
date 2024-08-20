@@ -19,7 +19,7 @@
 - [참고자료](#참고자료)
 
 ## Embedded Systems
-![alt text](image-1.png)
+![Embedded Systems](embedded.png)
 `Embedded System, 내장형 시스템`은 시스템을 동작시키는 SW를 HW에 내장하여 특수한 기능만을 수행하는 컴퓨터 시스템이다.
 `특정 요구 사항`을 가지고 있으며, `미리 정의된 작업`만을 수행한다.
 
@@ -50,7 +50,7 @@
 - 컴퓨터의 마더보드에 있는 칩 위에 있으며 장치의 운영 체제를 로드할 수 있도록 하는 일련의 명령을 실행. 
 - 장치의 하드웨어 구성 요소를 관리하고 시작 시 장치가 올바르게 작동하는지 확인하는 역할도 수행.
 
-![alt text](image-5.png)
+![BIOS](BIOS.png)
 <details>
 <summary>BIOS details</summary>
 <div markdown="1">
@@ -65,19 +65,19 @@ BIOS는 장치 시작 프로세스 외에도 장치의 BIOS 설정을 저장하�
 
 BIOS에 비해 더 큰 하드 드라이브 지원하고 2.2TB이상의 파이션을 처리할 수 있고, 보다 현대적 그래픽의 인터페이스 지원하여 시스템 설정을 더 쉽게 탐색 및 구성 가능함
 
-![alt text](image-6.png)
+![UEFI](UEFI.png)
 
 #### BIOS vs UEFI
-![alt text](image-3.png)
+![BIOS vs UEFI](BIOS%20vs%20UEFI.png)
 
 ### 부트로더
-![alt text](image-4.png)
+![Boot Loader](Boot%20Loader.png)
 BIOS는 부트로더가 필요하다.
 
 `부트로더 Bootloader`란 OS를 메모리에 넣는 작은 프로그램(or이미지)
 
 ### 펌웨어 개발 과정
-![alt text](image-7.png)
+![FW Process](FW%20Process.png)
 1. 요구사항 정의
 2. 툴과 기술 선택
 3. OS 사용
@@ -85,7 +85,7 @@ BIOS는 부트로더가 필요하다.
 5. 재사용 가능한 코드 생성 및 활용
 
 ## HW vs FW vs SW
-![alt text](image.png)
+![HW vs FW vs SW](HW%20vs%20FW%20vs%20SW.png)
 ### HW
 - CPU(Central Processing Unit), NPU(Neural Processing Unit), ROM(Read Only Memory), RAM(Random Access Memory), HDD(Hard Disk Drive), 각종 입출력장치 등등의 물리적인 구성요소
 - 업그레이드가 힘들거나 불가능함
