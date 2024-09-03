@@ -42,5 +42,5 @@
 ## 240903(화) 8주차
 - [유진: 객체지향과 절차지향의 차이](../cs-study/week08/OOP%20vs%20PP/)
 - [민규: 인증 전략](./week08/authentication%20strategy)
-- [성호: 
+- [성호: SV란?](../cs-study/week08/aboutSVG/)
 - [지용: 
