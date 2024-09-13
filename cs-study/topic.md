@@ -44,3 +44,9 @@
 - [민규: 인증 전략](./week08/authentication%20strategy)
 - [성호: SV란?](../cs-study/week08/aboutSVG/)
 - [지용: 
+
+## 240910(화) 9주차
+- [유진: Static Variable](./week09/static_var/StaticVariable.md)
+- [민규: 
+- [성호: 
+- [지용: 
