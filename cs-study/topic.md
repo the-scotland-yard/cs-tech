@@ -47,7 +47,7 @@
 
 ## 240910(화) 9주차
 - [유진: Static Variable](./week09/static_var/StaticVariable.md)
-- [민규: 
+- [민규: pythonic](./week09/pythonic/pythonic.pdf)
 - [성호: 
 - [지용: 
 
@@ -56,6 +56,6 @@
 
 ## 240924(화) 11주차
 - [유진: I2C Protocol](./week11/I2C/I2C.md)
-- [민규: 
+- [민규: Comprehension과 Generator](./week11/comprehension/Comprehension_Generator.pdf)
 - [성호: 
 - [지용: 
