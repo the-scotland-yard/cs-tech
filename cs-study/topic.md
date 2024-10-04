@@ -59,3 +59,10 @@
 - [민규: Comprehension과 Generator](./week11/comprehension/Comprehension_Generator.pdf)
 - [성호: js에서의 Array](./week11/js-array/)
 - [지용: 
+
+
+## 240820(화) 6주차
+- [유진:
+- [민규: JOIN](./week12/Join/join.pdf)
+- [성호: 
+- [지용: 
