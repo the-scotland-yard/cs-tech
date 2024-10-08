@@ -73,7 +73,14 @@
 
 ## 241004(금) 12주차
 
-- [유진:
+- [유진: 이사 이슈]
 - [민규: JOIN](./week12/Join/join.pdf)
 - [성호: requestAnimationFrame](./week12/raf/requestAnimationFrame.md)
+- [지용:
+
+## 241008(화) 13주차
+
+- [유진: HAL](./week13/HAL.md)
+- [민규:
+- [성호:
 - [지용:
