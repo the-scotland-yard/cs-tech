@@ -78,9 +78,9 @@
 - [성호: requestAnimationFrame](./week12/raf/requestAnimationFrame.md)
 - [지용:
 
-## 241008(화) 13주차
+## 241008,241015(화) 13,14주차
 
 - [유진: HAL](./week13/HAL.md)
-- [민규:
+- [민규: 정규화](./week13/normalization.pdf)
 - [성호: ngrok](./week13/ngrok/ngrok.md)
 - [지용:
