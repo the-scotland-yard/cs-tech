@@ -82,5 +82,5 @@
 
 - [유진: HAL](./week13/HAL.md)
 - [민규:
-- [성호:
+- [성호: ngrok](./week13/ngrok/ngrok.md)
 - [지용:
