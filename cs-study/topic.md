@@ -84,3 +84,10 @@
 - [민규: 정규화](./week13/normalization.pdf)
 - [성호: ngrok](./week13/ngrok/ngrok.md)
 - [지용:
+
+## 241031(목) 15주차
+
+- [유진: Artifact](./week15/Artifact.md)
+- [민규:
+- [성호:
+- [지용:
