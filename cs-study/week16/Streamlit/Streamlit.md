@@ -5,6 +5,7 @@
   - [주요 장점](#주요-장점)
   - [사용하기](#사용하기)
     - [설치 및 실행](#설치-및-실행)
+    - [데모 페이지 확인하기](#데모-페이지-확인하기)
     - [기본 사용](#기본-사용)
     - [컴포넌트 섹션](#컴포넌트-섹션)
     - [레이아웃](#레이아웃)
@@ -37,22 +38,40 @@
 ```bash
 pip install streamlit
 
-streamlit run app.py
+streamlit run ?????.py
 ```
 
-### 기본 사용
+실행하면 terminal이 다음과 같이 나온다. 이메일은 광고 안받고싶으면 공란으로 두면 됨!
+
+![install_and_run](image/Streamlit/install_and_run.png)
+
+### 데모 페이지 확인하기
+```bash
+streamlit hello
+```
+
+![hello](image/Streamlit/hello.png)
+
+**내용**
+- Hello
+- Animation Demo
+- Plotting Demo
+- Mapping Demo
+- Dataframe Demo
+
+### [기본 사용](./Example_codes/Basic.py)
 
 ```python
 import streamlit as st
 
-# 기본 텍스트 요소
+## 기본 텍스트 요소
 st.title('Streamlit 시작하기')
 st.header('이것은 헤더입니다')
 st.subheader('이것은 서브헤더입니다')
 st.text('일반 텍스트입니다')
 st.markdown('**마크다운**을 사용할 수 있습니다')
 
-# 데이터 표시
+## 데이터 표시
 import pandas as pd
 df = pd.DataFrame({
     '이름': ['John', 'Mary', 'Bob'],
@@ -61,28 +80,32 @@ df = pd.DataFrame({
 st.dataframe(df)
 ```
 
+![Basic](image/Streamlit/Basic.png)
+
 ### 컴포넌트 섹션
 
 ```python
-# 입력 위젯
+## 입력 위젯
 name = st.text_input('이름을 입력하세요')
 age = st.number_input('나이를 입력하세요', min_value=0, max_value=120)
 is_happy = st.checkbox('행복한가요?')
 
-# 선택 위젯
+## 선택 위젯
 option = st.selectbox(
     '좋아하는 색상을 선택하세요',
     ['빨강', '파랑', '초록']
 )
 
-# 파일 업로드
+## 파일 업로드
 uploaded_file = st.file_uploader("파일을 선택하세요")
 ```
+
+![Component](image/Streamlit/Component.png)
 
 ### 레이아웃
 
 ```python
-# 컬럼 레이아웃
+## 컬럼 레이아웃
 col1, col2 = st.columns(2)
 with col1:
     st.header("첫번째 컬럼")
@@ -91,13 +114,15 @@ with col2:
     st.header("두번째 컬럼")
     st.write("여기는 오른쪽 컬럼입니다")
 
-# 사이드바
+## 사이드바
 with st.sidebar:
     st.header("사이드바")
     st.write("사이드바 내용")
 ```
 
-### with pandas : 간단한 데이터 분석 대시보드
+![Layout](image/Streamlit/Layout.png)
+
+### [with pandas : 간단한 데이터 분석 대시보드](./Example_codes/Analyzer.py)
 
 ```python
 import streamlit as st
@@ -130,6 +155,15 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+파일 업로드 전에는 입력할 수 있는 칸만 뜬다.
+
+![Analyzer_before](image/Streamlit/Analyzer_before.png)
+
+입력 후에는 다시 다른 파일을 입력할 수 있도록, 아까와 같은 컴포넌트가 있고,
+아래에 데이터를 시각화해서 보여준다.
+
+![Analyzer_after](image/Streamlit/Analyzer_after.png)
 
 ## Deploy
 
