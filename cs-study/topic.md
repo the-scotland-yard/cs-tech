@@ -95,6 +95,6 @@
 ## 241106(수) 16주차
 
 - [유진: Streamlit](./week16/Streamlit/Streamlit.md)
-- [민규:
+- [민규: SOLID 원칙](./week16/SOLID/SOLID_원칙.pdf)
 - [성호:
 - [지용:
